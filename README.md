@@ -1,3 +1,6 @@
+<h1 align="left">Hi👋, I'm Aniket Rajpure<h1>
+<img align="center" alt="coding" width="1000" src="A_Git3.gif">
+
 # 💫 About Me:
 Hey there! My name is Aniket. I'm a final-year student pursuing B-Tech in Artificial Intelligence.<br>I am thrilled to venture into a fulfilling career in technology. I am fascinated by the endless possibilities of data, and its ability to reveal patterns, uncover trends, and solve complex problems.<br>I am constantly seeking opportunities to expand my knowledge and skills, embracing the dynamic nature of this evolving field. As I approach the culmination of my studies, <br>I am eager to contribute my skills and insights to Organizations/Teams who are enthusiastic about the Data & Machine Learning world. I’m currently working on<br><br><br>🔭 I’m currently working on my problem-solving skills<br>👯 I’m looking to collaborate on any open-source projects<br>🤝 I’m looking for help with advanced ML concepts<br>🌱 I’m currently learning ML / DS fundamentals<br>📫 How to reach me < aniketrajpure18@gmail.com ><br>💬 Ask me about : Tech/Cricket<br>⚡Fun Fact : I do read books :)<br><br>
 
